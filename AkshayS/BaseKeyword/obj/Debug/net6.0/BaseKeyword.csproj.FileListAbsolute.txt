@@ -1,0 +1,15 @@
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\bin\Debug\net6.0\BaseKeyword.exe
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\bin\Debug\net6.0\BaseKeyword.deps.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\bin\Debug\net6.0\BaseKeyword.runtimeconfig.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\bin\Debug\net6.0\BaseKeyword.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\bin\Debug\net6.0\BaseKeyword.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.AssemblyReference.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfoInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.AssemblyInfo.cs
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.csproj.CoreCompileInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\refint\BaseKeyword.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\BaseKeyword.genruntimeconfig.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeyword\obj\Debug\net6.0\ref\BaseKeyword.dll

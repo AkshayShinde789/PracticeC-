@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "returns exampe calculator method/1.0.0": {
+        "runtime": {
+          "returns exampe calculator method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "returns exampe calculator method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

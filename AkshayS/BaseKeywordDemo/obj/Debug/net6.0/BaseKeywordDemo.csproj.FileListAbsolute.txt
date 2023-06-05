@@ -1,0 +1,15 @@
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\bin\Debug\net6.0\BaseKeywordDemo.exe
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\bin\Debug\net6.0\BaseKeywordDemo.deps.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\bin\Debug\net6.0\BaseKeywordDemo.runtimeconfig.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\bin\Debug\net6.0\BaseKeywordDemo.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\bin\Debug\net6.0\BaseKeywordDemo.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.csproj.AssemblyReference.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.AssemblyInfoInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.AssemblyInfo.cs
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.csproj.CoreCompileInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\refint\BaseKeywordDemo.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\BaseKeywordDemo.genruntimeconfig.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\BaseKeywordDemo\obj\Debug\net6.0\ref\BaseKeywordDemo.dll

@@ -1,0 +1,15 @@
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\bin\Debug\net6.0\CoffeeShop.exe
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\bin\Debug\net6.0\CoffeeShop.deps.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\bin\Debug\net6.0\CoffeeShop.runtimeconfig.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\bin\Debug\net6.0\CoffeeShop.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\bin\Debug\net6.0\CoffeeShop.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.AssemblyReference.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\refint\CoffeeShop.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\CoffeeShop.genruntimeconfig.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\CoffeeShop\obj\Debug\net6.0\ref\CoffeeShop.dll

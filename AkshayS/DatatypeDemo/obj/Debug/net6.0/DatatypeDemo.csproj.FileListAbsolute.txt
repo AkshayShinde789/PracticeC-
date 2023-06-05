@@ -1,0 +1,15 @@
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\bin\Debug\net6.0\DatatypeDemo.exe
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\bin\Debug\net6.0\DatatypeDemo.deps.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\bin\Debug\net6.0\DatatypeDemo.runtimeconfig.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\bin\Debug\net6.0\DatatypeDemo.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\bin\Debug\net6.0\DatatypeDemo.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.csproj.AssemblyReference.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.AssemblyInfoInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.AssemblyInfo.cs
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.csproj.CoreCompileInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\refint\DatatypeDemo.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\DatatypeDemo.genruntimeconfig.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\DatatypeDemo\obj\Debug\net6.0\ref\DatatypeDemo.dll

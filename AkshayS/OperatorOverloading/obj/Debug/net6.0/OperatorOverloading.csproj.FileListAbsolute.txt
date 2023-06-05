@@ -1,0 +1,15 @@
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.exe
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.deps.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.runtimeconfig.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.csproj.AssemblyReference.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.AssemblyInfo.cs
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\refint\OperatorOverloading.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.genruntimeconfig.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\OperatorOverloading\obj\Debug\net6.0\ref\OperatorOverloading.dll

@@ -1,0 +1,15 @@
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\bin\Debug\net6.0\returns exampe calculator method.exe
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\bin\Debug\net6.0\returns exampe calculator method.deps.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\bin\Debug\net6.0\returns exampe calculator method.runtimeconfig.json
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\bin\Debug\net6.0\returns exampe calculator method.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\bin\Debug\net6.0\returns exampe calculator method.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.csproj.AssemblyReference.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.GeneratedMSBuildEditorConfig.editorconfig
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.AssemblyInfoInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.AssemblyInfo.cs
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.csproj.CoreCompileInputs.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\refint\returns exampe calculator method.dll
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.pdb
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\returns exampe calculator method.genruntimeconfig.cache
+D:\B20 Dot Net\C#\C#Practice\AkshayS\returns exampe calculator method\obj\Debug\net6.0\ref\returns exampe calculator method.dll
